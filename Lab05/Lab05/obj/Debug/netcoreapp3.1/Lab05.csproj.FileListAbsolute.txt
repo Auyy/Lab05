@@ -10,3 +10,16 @@
 /Users/tangkwa/Desktop/lab05/Lab05/Lab05/obj/Debug/netcoreapp3.1/Lab05.dll
 /Users/tangkwa/Desktop/lab05/Lab05/Lab05/obj/Debug/netcoreapp3.1/Lab05.pdb
 /Users/tangkwa/Desktop/lab05/Lab05/Lab05/obj/Debug/netcoreapp3.1/Lab05.genruntimeconfig.cache
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.exe
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.deps.json
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.runtimeconfig.json
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.runtimeconfig.dev.json
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.dll
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\bin\Debug\netcoreapp3.1\Lab05.pdb
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.csprojAssemblyReference.cache
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.AssemblyInfoInputs.cache
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.AssemblyInfo.cs
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.csproj.CoreCompileInputs.cache
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.dll
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.pdb
+D:\WorkingSpace\NTL\Intership\Lab05\Lab05\Lab05\Lab05\obj\Debug\netcoreapp3.1\Lab05.genruntimeconfig.cache

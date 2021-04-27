@@ -18,9 +18,9 @@ namespace Lab05
             throw new NotImplementedException();
         }
 
-        public void Show()
+        public override string Show()
         {
-            Console.WriteLine($"Divide");
+            return "Divide";
         }
     }
 }

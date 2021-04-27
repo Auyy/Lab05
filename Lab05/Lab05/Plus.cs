@@ -21,10 +21,10 @@ namespace Lab05
             throw new NotImplementedException();
         }
 
-        public void Show()
-        {
-            Console.WriteLine($"Plus");
+        //public void Show()
+        //{
+        //    Console.WriteLine($"Plus");
 
-        }
+        //}
     }
 }

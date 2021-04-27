@@ -5,9 +5,9 @@ namespace Lab05
     {
         public abstract Double Execute();
 
-        public void show()
+        public virtual string Show()
         {
-            Console.WriteLine("My astract class is Operation");
+            return "My astract class is Operation";
         }
     }
 }
